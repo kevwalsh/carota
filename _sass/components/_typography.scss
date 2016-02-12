@@ -34,10 +34,10 @@ blockquote {
 
 a {
    text-decoration: none;
-   color: $primary;
+   color: $valencia;
    &:hover,
    &:focus {
-     color: lighten($primary, 14%);
+     color: lighten($valencia, 14%);
      text-decoration: none;
    }
 }
