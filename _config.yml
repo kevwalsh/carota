@@ -4,7 +4,7 @@
 ####################################
 #
 title:       "Kev and Lisa's wedding"
-description: 'A farm party at our <br />home in The Blue Mountains'
+description: 'July 30 2016 at our home in The Blue Mountains'
 url:         # the base hostname & protocol for your site
 
 #
@@ -34,11 +34,11 @@ owner:
   name: Kevin Walsh and Lisa Pottier
   avatar: avatar.jpg
   job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  # bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
   email: kevinjosephwalsh@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: alittlered3 #username
-  facebook: #username
+  # disqus-shortname: renyuanzblog
+  # twitter: alittlered3 #username
+  #facebook: username
   google:
     plus: #username
     analytics: UA-62251910-1
