@@ -50,24 +50,32 @@ $hr-border-width:             $border-width;
 //
 // Colors
 //
-$valencia: #F76565; //red  mapbox pin.
-$color1: #ffead0; //rgba(255, 234, 208, 100)
-$color2: #f76f8e; //rgba(247, 111, 142, 100)
-$color3: #96616b; //rgba(150, 97, 107, 100)
-$color4: #37505c; //rgba(55, 80, 92, 100)
-$color5: #113537; //rgba(17, 53, 55, 100)
+
+// https://coolors.co/fe4a49-2ab7ca-fed766-e6e6ea-f4f4f8
+
+
+
+$red: #fe4a49; //rgba(254, 74, 73, 100) RED
+$turquoise: #2ab7ca; //rgba(42, 183, 202, 100) TURQUOISE
+$yellow: #fed766; //rgba(254, 215, 102, 100) YELLOW
+$grey: #e6e6ea; //rgba(230, 230, 234, 100) GREY
+$white: #f4f4f8; //rgba(244, 244, 248, 100) WHITE
+
+
+$valencia: $red; //red  mapbox pin.
+
 
 
 $text-color:       rgba(0, 0, 0, 0.87) !default;
-$background-color: #f2f2f2;
+$background-color: $white;
 
-$white:            #fff;
-$primary:          $color3;
-$secondary:        $color4;
-$success:          $color1;
-$danger:           $color2;
-$warning:          $color5;
-$info:             $color4;
+$white:            $white;
+$primary:          $turquoise;
+$secondary:        $red;
+$success:          $yellow;
+$danger:           $red;
+$warning:          $yellow;
+$info:             $turquoise;
 
 // Tables
 $table-border-color: #d0d0d0 !default;

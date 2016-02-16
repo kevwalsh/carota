@@ -27,7 +27,7 @@
 }
 .cover-card {
   font-size: 1.5em;
-  color: $text-color;
+  color: #fff;
   padding: 0 30px;
   vertical-align: center !important;
   span {
@@ -50,12 +50,12 @@
   }
   .author_job {
     // display: block;
-    color: black;
+    color: #ffffd5;
     font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;
     margin: -5px auto 10px;
-    background: rgba(255,255,213,.75);
+    // background: rgba(255,255,213,.75);
   }
   .author_bio {
     font-size: 90%;
@@ -103,11 +103,11 @@
       margin-top: 1em;
       text-transform: lowercase;
       font-size: 85%;
-      color: $valencia;
+      color: $turquoise;
       font-weight: bold;
       &:hover,
       &:focus {
-        color: lighten($valencia, 14%);
+        color: lighten($turquoise, 14%);
       }
     }
   }
