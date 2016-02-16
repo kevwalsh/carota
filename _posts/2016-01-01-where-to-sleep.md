@@ -8,12 +8,16 @@ comments: false
 #  feature: sample-image-1.jpg
 ---
 
-If you know nothing about Git, google it, this is not the right place to start learning Git. I wrote this article for developers who know already the basic Git usage and use Git as an important piece of workflow.
+
+
+### Camping
+
+We have tons of space for tents.  We'll have a simple outdoor kitchen set up and an outdoor toilet.
 
 ### Bed and Breakfasts
 
-It's good to start off using git with good habits. Using `git status` to find where you are is one of them. The terminal's output shows the actions you can do with the current status.
+There are a lot of traditional B&B's and also a number of Airbnb listings.
 
-### I want see a list of details of my last N commits
+### Hotels
 
-For example: to see your last 5 commits
+Here's a link to some hotels. 
