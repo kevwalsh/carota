@@ -1,11 +1,7 @@
 ---
 layout: page
 title: "Coming for the weekend?"
-excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking. Read on...
-
-<iframe width='100%' height='250px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/lobp.ng3fga55/attribution,zoompan,zoomwheel,geocoder.html?access_token=pk.eyJ1IjoibG9icCIsImEiOiJjN3E3cHNFIn0.wzwgKdJM1apIg_CO9yO73A'></iframe>
-
-"
+excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking. Read on..."
 categories: MAC
 tags: [terminal, iTerm2, OS X]
 date: 2015-04-29T21:32:27+02:00
