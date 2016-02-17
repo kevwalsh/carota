@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Where to sleep
-excerpt: "You're welcome to plant your tent on our lawn & use the outhouse, outdoor shower, cooking area we'll set up.
-If you'd rather have a bed (and a real bathroom!)there are great places close to us. 
+excerpt: "Plant your tent on our lawn & use the outhouse, outdoor shower, cooking area we'll set up.
+Or if you'd rather have a bed (and a real bathroom!)there are great places close to us. 
 It'll be a long week end so don't wait too long to book!"
 tags: "accommodations"
 comments: false
