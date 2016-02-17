@@ -18,19 +18,21 @@ There's a pond 500m east of our house.  It's spring fed, so yes it's cold.
 
 There's a little pool at our home.  Bring your suit to the party. :)
 
-The beautiful Beaver Rivers flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house.  One is near Kimberley, and the other in Slabtown.  Both have moving water.
+The beautiful Beaver River flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house.  One is near Kimberley, and the other in Slabtown.  Both have moving water.
 
-And of course Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches of limestone shore.  We recommend Craigleith.
+And of course Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches of limestone shore.  We recommend Craigleith and the YMCA beach of Wasaga Beach.
 
 #### Hiking
 
 The [Bruce Trail](http://brucetrail.org/) is a 5 minute drive from our place.  But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
 
-Of course there's also great trails at our house. We'll have some maps around for.
+We often came back from the Kolapore trails with our pockets full of yummy mushrooms. We'll have some maps around for.
 
 #### Biking
 
-For mountain bikers, the Kolapore trails system can be accessed from the end of our driveway, or from a parking lot on Gray Road 2, south of the intersection with 19. There's also 3-stage
+For mountain bikers, the Kolapore trails system can be accessed from the end of our driveway, or from a parking lot on Grey Road 2, south of the intersection with 19. There's also 3-stage
+
+For road bikers there are many beautiful hills to climb, quiet gravel roads and smooth paved roads with shoulders
 
 #### Rock climbing
 
