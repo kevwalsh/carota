@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coming for the weekend?"
-excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking. Read on..."
+excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking, napping. Read on..."
 categories: MAC
 tags: [terminal, iTerm2, OS X]
 date: 2015-04-29T21:32:27+02:00
@@ -24,7 +24,7 @@ And of course Georgian Bay is 20 minutes away, with its big sandy beaches and so
 
 #### Hiking
 
-The [Bruce Trail](http://brucetrail.org/) is a 5 minute drive from our place.  But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
+The [Bruce Trail](http://brucetrail.org/) is 5 minutes drive from our place. But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
 
 We often came back from the Kolapore trails with our pockets full of yummy mushrooms. We'll have some maps around for.
 
@@ -36,4 +36,4 @@ For road bikers there are many beautiful hills to climb, quiet gravel roads and 
 
 #### Rock climbing
 
-Two best areas in the county are all around us: Metcalfe Rock (5 minute drive and 5 minute hike), The Swamp (a bit more of a hike), and Old Baldy in Kimberley.
+Two best areas in the county are around us: Metcalfe Rock (5 minute drive and 5 minute hike), The Swamp (a bit more of a hike), and Old Baldy in Kimberley.
