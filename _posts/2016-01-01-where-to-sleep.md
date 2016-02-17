@@ -27,7 +27,7 @@ Yup you won’t have access to the house cause you will be too many...
 # Airbnb, B&B's & hotels
 Duncan is the closest location to our place, 5 minutes drive
 
-- Airbnb offers many options, including tones of condos at Blue Mountain which is the ski resort village 25 minutes dribve from us. the other options are closer but way fewer: probably best not too wait to long. 
+- Airbnb offers many options, including tones of condos at Blue Mountain which is the ski resort village 25 minutes drive from us. The other options seems nicer to us but are way fewer: probably best not too wait to long. 
 {Airbnb places around us}(https://fr.airbnb.ca/s/Duncan--ON?checkin=29%2F07%2F2016&checkout=01%2F08%2F2016&guests=2&ne_lat=44.52074649763&ne_lng=-80.28659513683164&price_max=463&room_types%5B%5D=Entire+home%2Fapt&search_by_map=true&source=bb&ss_id=2ulkhhr6&ss_preload=true&sw_lat=44.26659464166998&sw_lng=-80.60931852550351&zoom=11&s_tag=Cy6SKxge)
 
 - We added a B&B:
