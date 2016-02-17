@@ -1,8 +1,13 @@
 // Post listing
+
 .post-listing {
-  background-color: $white;
-  position: absolute;
-  top: 400px;
+
+}
+
+.listing {
+  // background-color: $white;
+  // position: absolute;
+  // top: 400px;
   z-index: 233;
   width: 100%;
   padding: 20px 20px 0;
@@ -18,6 +23,8 @@
     top: 0;
   }
 }
+
+
 
 .image-credit {
   float: right;
