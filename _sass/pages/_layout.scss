@@ -22,11 +22,11 @@
   @include media-query($medium-screen) {
     text-align: left;
     background-position: center top;
-    transition: background 1s ease;
+    // transition: background 1s ease;
     &:hover {
-      background: linear-gradient(25deg, rgba(20,20,20, .8), rgba(240,240,20, .2)), url("../img/winter-carota.jpg"); //url("../img/photo-daucus.jpg")
-      background-position: left top;
-      background-size: cover;
+      // background: linear-gradient(25deg, rgba(20,20,20, .8), rgba(240,240,20, .2)), url("../img/winter-carota.jpg"); //url("../img/photo-daucus.jpg")
+      // background-position: left top;
+      // background-size: cover;
     }
   }
 }
