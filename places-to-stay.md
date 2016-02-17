@@ -2,8 +2,6 @@
 layout: page
 title: Where to sleep
 excerpt: "Camping is best. But we know where you might find a bed around here too. "
-tags: "accommodations"
-comments: false
 #image:
 #  feature: sample-image-1.jpg
 ---
