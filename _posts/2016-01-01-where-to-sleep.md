@@ -15,6 +15,8 @@ comments: false
 # Camping
 We have tones of space for tents at home if you're cool with using an outhouse, outdoor shower & cooking! 
 Yup you won’t have access to the house cause you will be too many...
+
+
 **Arrivals**
 - Coming from far away: Arrive anytime and stay as much as you want!
 - Coming from Toronto: Arrive Saturday between 11am &12:30pm for one or two nights
