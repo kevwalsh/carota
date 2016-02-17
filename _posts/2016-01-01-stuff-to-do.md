@@ -30,9 +30,9 @@ We often came back from the Kolapore trails with our pockets full of yummy mushr
 
 #### Biking
 
-For mountain bikers, the Kolapore trails system can be accessed from the end of our driveway, or from a parking lot on Grey Road 2, south of the intersection with 19. There's also 3-stage
+For mountain bikers, the Kolapore trails system can be accessed from the end of our driveway, or from a parking lot on Grey Road 2, south of the intersection with 19. There's also 3-stage.
 
-For road bikers there are many beautiful hills to climb, quiet gravel roads and smooth paved roads with shoulders to be enjoyed
+For road bikers there are many beautiful hills to climb, quiet gravel roads and smooth paved roads with shoulders to be enjoyed.
 
 #### Rock climbing
 
