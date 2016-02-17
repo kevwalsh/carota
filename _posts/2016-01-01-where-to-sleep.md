@@ -12,9 +12,10 @@ comments: false
 
 ### Camping
 
-We have tons of space for tents.  We'll have a simple outdoor kitchen set up and an outdoor toilet.
+Altough you won’t have access to the house, we have tons of space for tents! Expect an outhouse, outdoor shower & cooking 
 
-### Bed and Breakfasts
+
+### Airbnb and B&B's
 
 There are a lot of traditional B&B's and also a number of Airbnb listings.
 
