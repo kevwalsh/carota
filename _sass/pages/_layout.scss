@@ -117,14 +117,23 @@
   }
 }
 
+.s4 {
+  text-align: center;
+  margin: 2em 0;
+}
+
+iframe {
+  position: absolute;
+  bottom: 0;
+}
 .welcome {
-  color: $white;
-  background: darken($turquoise, 14%);
+  color: #000;
+  background: $white;
   font-weight: bold;
   transition: background-color 1.5s ease;
   &:hover {
-    background-color: $turquoise;
-    color: #fff;
+    // background-color: $white;
+    // color: #fff;
   }
   padding: 20px 20px 40px;
   @include media-query($small-screen) {

@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Coming for the weekend?"
-excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking, napping. Read on..."
-categories: MAC
-tags: [terminal, iTerm2, OS X]
-date: 2015-04-29T21:32:27+02:00
-comments: true
+excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking. Read on..."
+image:
+  icon: tent.gif
 ---
 
 #### A map
