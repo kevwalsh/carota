@@ -37,7 +37,7 @@ a {
    color: $turquoise;
    &:hover,
    &:focus {
-     color: lighten($valencia, 14%);
+     color: darken($turquoise, 14%);
      text-decoration: none;
    }
 }

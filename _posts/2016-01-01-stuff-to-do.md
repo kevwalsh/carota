@@ -3,12 +3,8 @@ layout: page
 title: "Coming for the weekend?"
 excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking. Read on..."
 image:
-  icon: tent.gif
+  icon: canoe.png
 ---
-
-#### A map
-
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/lobp.ng3fga55/attribution,zoompan,zoomwheel,geocoder.html?access_token=pk.eyJ1IjoibG9icCIsImEiOiJjN3E3cHNFIn0.wzwgKdJM1apIg_CO9yO73A'></iframe>
 
 #### Swimming
 
@@ -35,3 +31,7 @@ For road bikers there are many beautiful hills to climb, quiet gravel roads and 
 #### Rock climbing
 
 Two best areas in the county are around us: Metcalfe Rock (5 minute drive and 5 minute hike), The Swamp (a bit more of a hike), and Old Baldy in Kimberley.
+
+#### A map
+
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/lobp.ng3fga55/attribution,zoompan,zoomwheel,geocoder.html?access_token=pk.eyJ1IjoibG9icCIsImEiOiJjN3E3cHNFIn0.wzwgKdJM1apIg_CO9yO73A'></iframe>

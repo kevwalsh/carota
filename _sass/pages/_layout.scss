@@ -123,9 +123,11 @@
 }
 
 iframe {
-  position: absolute;
+  position: relative;
   bottom: 0;
+
 }
+
 .welcome {
   color: #000;
   background: $white;
