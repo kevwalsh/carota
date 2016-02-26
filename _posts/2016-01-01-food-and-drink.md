@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food and drinks
-excerpt: "More about this soon."
+excerpt: "More about this soon. <br /> It'll be good."
 #image:
 #  feature: sample-image-1.jpg
 image:
