@@ -2,7 +2,9 @@
 input {
   display: block;
   margin: 1em 0;
-  width: 80%;
-  font-size: 2em;
+  width: 100%;
   padding: .5em;
+  @media (min-width: medium-screen) {
+    font-size: 1.5em;
+  }
 }

@@ -125,7 +125,6 @@
 iframe {
   position: relative;
   bottom: 0;
-
 }
 
 .welcome {
@@ -133,6 +132,9 @@ iframe {
   // background: $white;
   font-weight: bold;
   font-size: 1.1em;
+  p {
+    margin: .25em 0;
+  }
   transition: background-color 0.5s ease;
   &:hover {
     background-color: $white;
