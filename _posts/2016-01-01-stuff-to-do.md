@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coming for the weekend?"
-excerpt: "What to do around these parts"
+excerpt: "What to do around <br />these parts"
 image:
   icon: canoe.png
 ---
