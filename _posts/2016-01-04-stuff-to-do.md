@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Coming for the weekend?"
-excerpt: "What to do around <br />these parts"
+excerpt: "What to do around <br />these parts."
 image:
-  icon: canoe.png
+  svg: canoe.svg
+  png: canoe.png
 ---
 
 #### Swimming

@@ -32,7 +32,7 @@
 }
 .cover-card {
   font-size: 1.5em;
-  color: #fff;
+  color: $yellow-light;
   padding: 0 30px;
   vertical-align: center !important;
   span {
@@ -48,14 +48,12 @@
   }
   .author_name {
     display: block;
-    color: #FFFFD5;
     font-weight: bold;
     font-size: 1.75em;
     text-transform: lowercase;
   }
   .author_job {
     // display: block;
-    color: #ffffd5;
     font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;
@@ -130,14 +128,15 @@ iframe {
 
 .welcome {
   color: #000;
-  background: $white;
+  // background: $white;
   font-weight: bold;
-  transition: background-color 1.5s ease;
+  font-size: 1.3em;
+  transition: background-color 0.5s ease;
   &:hover {
-    // background-color: $white;
+    background-color: $white;
     // color: #fff;
   }
-  padding: 20px 20px 40px;
+  padding: 50px 60px 40px;
   @include media-query($small-screen) {
     // padding: 50px 30px;
   }

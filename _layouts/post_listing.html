@@ -3,16 +3,17 @@ layout: default
 ---
 
 <div class="welcome">
-  <h1>HI!</h1>
-  We're organizing this party at our farm to celebrate our life together...
+  It's going to be a relaxed party, all outdoors, with close friends and fam. Looking forward to seeing you.<br /><span style="text-align:right; width: 100%;">~Lisa and Kevin</span>
 </div>
 
 <div class="row">
   {% for post in site.posts %}
   <div class="col m4 post">
-    <div class="post-icon"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ post.image.icon }}"></a></div>
-    <div class="post-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
-    <div class="post-excerpt">{{ post.excerpt }}</div>
+    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+      <div class="post-icon"><img src="{{ site.url }}/img/{{ post.image.png }}" srcset="{{ site.url }}/img/{{ post.image.svg }}"></div>
+      <div class="post-title">{{ post.title }}</div>
+      <div class="post-excerpt">{{ post.excerpt }}</div>
+    </a>
   </div>
   {% endfor %}
 </div>

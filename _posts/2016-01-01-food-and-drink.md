@@ -1,10 +1,14 @@
 ---
 layout: page
 title: Food and drinks
-excerpt: "We've been busy <br /> planning our garden."
+excerpt: "More about this soon."
 #image:
 #  feature: sample-image-1.jpg
 image:
-  icon: bottle.png
+  svg: bottle.svg
+  png: bottle.png
 ---
-We've been busy
+
+We've been busy over the winter planning our garden, with this party in mind.
+
+We have a hundred bottles of homemade cider to drink.  
