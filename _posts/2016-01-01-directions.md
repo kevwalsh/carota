@@ -2,8 +2,8 @@
 layout: post
 title: Directions
 excerpt: "Just don't use Apple Maps or you'll end up in a ditch."
-categories: Life
-comments: true
+image:
+  icon: map.png
 ---
 
 Our home is tucked away at the end of a long dead end road, it's a bit hard to find.

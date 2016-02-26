@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coming for the weekend?"
-excerpt: "Some stuff to do around here... cycling, hiking, swimming, eating, drinking. Read on..."
+excerpt: "What to do around these parts"
 image:
   icon: canoe.png
 ---

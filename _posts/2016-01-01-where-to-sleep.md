@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Where to sleep
-excerpt: "Plant your tent on our lawn & use the outhouse, outdoor shower, cooking area we'll set up.
-Or if you'd rather have a bed (and a real bathroom!) there are great places close to us.
-It'll be a long week end so don't wait too long to book!"
-tags: "accommodations"
-comments: false
+excerpt: "Camping chez nous or <br /> find a place nearby."
 #image:
 #  feature: sample-image-1.jpg
 image:
