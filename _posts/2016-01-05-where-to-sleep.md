@@ -18,7 +18,7 @@ Yup you won’t have access to the house cause you will be too many...
 
 If you're coming from far away: arrive anytime and stay as long as you want.
 
-If you're coming from Toronto (and have a chance to come visit anytime you want, when there are less people!): arrive late in the morning on Saturday and stay for a night or two!
+If you're coming from Toronto (and have a chance to come visit when it's less busy!): arrive late in the morning on Saturday and stay for a night or two!
 
 #### Airbnb, B&B's & hotels
 
