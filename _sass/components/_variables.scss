@@ -28,10 +28,11 @@ $font-family-monospace:      "Ubuntu Mono", "Courier New", monospace !default;
 $font-family-base:           $font-family-monospace !default;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
-$font-size-root:             17px !default;
+$font-size-root:             15px !default;
 
 $font-size-base:             $font-size-root !default;
-$font-size-lg:               $font-size-root * 1.25 !default;
+$font-size-xl:               $font-size-root * 1.25 !default;
+$font-size-lg:               $font-size-root * 1 !default;
 $font-size-sm:               $font-size-root * 0.875 !default;
 $font-size-xs:               $font-size-root * 0.75 !default;
 

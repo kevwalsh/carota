@@ -13,7 +13,19 @@ html {
   color: $text-color;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-size: $font-size-base;
+  font-size: $font-size-sm;
+  @include media-query($small-screen) {
+    font-size: $font-size-sm;
+  }
+  @include media-query($medium-screen) {
+    font-size: $font-size-sm;
+  }
+  @include media-query($large-screen) {
+    font-size: $font-size-lg;
+  }
+  @include media-query($larger-screen) {
+    font-size: $font-size-xl;
+  }
 }
 
 //

@@ -1,8 +1,10 @@
 ---
 layout: post
-title: RSVP old
-published: false
+permalink: rsvp-thanks
+published: true
 
 ---
 
-Thanks!
+Thanks for rsvp'ing.
+
+We can't wait ...
