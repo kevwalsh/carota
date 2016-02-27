@@ -2,7 +2,7 @@
 layout: page
 title: Directions
 permalink: directions
-excerpt: "Just don't use Apple Maps or <br />you'll end up in a ditch."
+excerpt: "Whatever you do, <br />don't use Apple Maps."
 image:
   svg: map.svg
   png: map.png

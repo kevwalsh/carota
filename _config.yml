@@ -17,7 +17,7 @@ timezone:          Americas/Toronto
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         :title
 
 kramdown:
   auto_ids:       true
@@ -42,24 +42,9 @@ owner:
   #facebook: username
   google:
     plus: #username
-    analytics: UA-62251910-1
+    analytics: UA-73359685-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   github: kevwalsh #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
