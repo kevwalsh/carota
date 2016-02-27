@@ -17,9 +17,9 @@ comingsoon: comingsoon
 * no fancy clothes
 
 
-####If you're Camping
+#### If you're Camping
 
-* food
+* food. 
 * all your sleeping stuff
 
 we'll have an outdoor kitchen setup.
