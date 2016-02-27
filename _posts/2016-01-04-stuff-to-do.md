@@ -2,27 +2,27 @@
 layout: page
 title: "Coming for the weekend?"
 permalink: stuff-to-do
-excerpt: "What to do around <br />these parts."
+excerpt: "What to do around <br />here"
 image:
   svg: canoe.svg
   png: canoe.png
 ---
+We really hope you'll stick around longer to enjoy the area. It's beautifully hilly and there's tones of activities.
 
 #### Swimming
 
-There's a pond 500m east of our house.  It's spring fed, so yes it's cold.
-
 There's a little pool at our home.  Bring your suit to the party. :)
 
-The beautiful Beaver River flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house.  One is near Kimberley, and the other in Slabtown.  Both have moving water.
+The beautiful Beaver River flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house. One is near Kimberley, and the other in Slabtown. Both have moving water and really fun.
 
-And of course Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches of limestone shore.  We recommend Craigleith and the YMCA beach of Wasaga Beach.
+Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches of limestone shore.  We recommend Craigleith and the YMCA beach of Wasaga Beach.
 
 #### Hiking
 
 The [Bruce Trail](http://brucetrail.org/) is 5 minutes drive from our place. But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
 
-We often came back from the Kolapore trails with our pockets full of yummy mushrooms. We'll have some maps around for.
+The Kolapore trails are jusr around the corner and we often came back with our pockets full of yummy mushrooms. 
+
 
 #### Biking
 
@@ -32,7 +32,7 @@ For road bikers there are many beautiful hills to climb, quiet gravel roads and 
 
 #### Rock climbing
 
-Two best areas in the county are around us: Metcalfe Rock (5 minute drive and 5 minute hike), The Swamp (a bit more of a hike), and Old Baldy in Kimberley.
+Three best areas in the county are around us: Metcalfe Rock (5 minute drive and 5 minute hike), The Swamp (a bit more of a hike), and Old Baldy in Kimberley.
 
 #### A map
 
