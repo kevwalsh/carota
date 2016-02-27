@@ -11,7 +11,7 @@ We really hope you'll stick around for a few days to enjoy the area. It's beauti
 
 #### Swimming
 
-There's a little pool at our home.  Bring your suit to the party. :)
+There's a little pool at our home.  Bring your suit!
 
 The beautiful Beaver River flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house. One is near Kimberley, and the other in Slabtown. Both have moving water and really fun.
 
