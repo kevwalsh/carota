@@ -7,7 +7,7 @@ image:
   svg: canoe.svg
   png: canoe.png
 ---
-We really hope you'll stick around for a few days to enjoy the area. It's beautifully hilly and there's tones of activities.
+We really hope you'll stick around for a few days to enjoy the area. It's beautifully hilly and a lot to do.
 
 #### Swimming
 
