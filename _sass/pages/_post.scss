@@ -21,6 +21,9 @@
     -ms-transition: background .5s ease;
     transition: background .5s ease;
     background: #fff;
+    &.comingsoon {
+
+    }
     &:hover {
       background: $white;
       border: 1px solid #999;
@@ -29,6 +32,9 @@
       padding: 0;
       display: block;
       text-align: center;
+      &.comingsoon {
+        color: #aaa;
+      }
       img {
         text-align: center;
         max-width: 100px;

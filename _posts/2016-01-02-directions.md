@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Directions
+permalink: directions
 excerpt: "Just don't use Apple Maps or <br />you'll end up in a ditch."
 image:
   svg: map.svg

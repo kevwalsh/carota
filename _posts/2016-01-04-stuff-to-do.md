@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Coming for the weekend?"
+permalink: stuff-to-do
 excerpt: "What to do around <br />these parts."
 image:
   svg: canoe.svg

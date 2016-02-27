@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Where to sleep
+permalink: where-to-sleep
 excerpt: "Camping chez nous or <br /> find a place nearby."
 #image:
 #  feature: sample-image-1.jpg
