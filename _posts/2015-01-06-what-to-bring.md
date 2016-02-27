@@ -23,7 +23,7 @@ comingsoon: comingsoon
 #### If you're Camping
 
 * Food: Depending on how many of you are camping we might structure a bit some meals to make them feel seamless 
-* all your sleeping stuff
-* You won't have access to the house but there'll be an outdoor shower and kitchen set up
+* Tent, sleeping & cooking stuff
+* You won't have access to the house but there'll be an outdoor shower, kitchen, toilets set up
 
 
