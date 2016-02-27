@@ -21,7 +21,7 @@ Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches o
 
 The [Bruce Trail](http://brucetrail.org/) is 5 minutes drive from our place. But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
 
-The Kolapore trails are jusr around the corner and we often came back with our pockets full of yummy mushrooms. 
+The Kolapore trails are just around the corner and we often came back with our pockets full of yummy mushrooms. 
 
 
 #### Biking
