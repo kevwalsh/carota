@@ -2,7 +2,7 @@
 layout: page
 title: What to bring
 permalink: what-to-bring
-excerpt: "basically: "
+excerpt: "Forget that fancy outfit"
 image:
   png: backpack.png
   svg: backpack.svg
@@ -12,14 +12,18 @@ comingsoon: comingsoon
 
 #### Bring
 
-* swimsuit and towel for the pool
-* comfy shoes
-* no fancy clothes
+* Your sexy speedo (French joke) or any swimsuit and towel for the pool
+* Shoes & clothes: We would love it super casual or exentrique, but leave those heels and tight suit at home
+* Scarf, Long sleeves or pants to protect yourself from the mosquitos at sunset!
+* Your guitar, your voice, your bocce game, or anything you'd like to share
+* Your bike, hiking shoes, sunscreen...and mosquito net 
+* [Your kids!](/kids)
 
 
 #### If you're Camping
 
-* food. 
+* Food: Depending on how many of you are camping we might structure a bit some meals to make them feel seamless 
 * all your sleeping stuff
+* You won't have access to the house but there'll be an outdoor shower and kitchen set up
 
-we'll have an outdoor kitchen setup.
+
