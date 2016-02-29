@@ -7,7 +7,7 @@ image:
   svg: canoe.svg
   png: canoe.png
 ---
-We really hope you'll stick around for a few days to enjoy the area. It's beautifully hilly and a lot to do.
+We really hope you'll stick around for a few days to enjoy the area. It's beautifully hilly and there's a lot to do.
 
 #### Swimming
 
@@ -33,6 +33,14 @@ For road bikers there are many beautiful hills to climb, quiet gravel roads and 
 #### Rock climbing
 
 Three best areas in the county are around us: Metcalfe Rock (5 minute drive and 5 minute hike), The Swamp (a bit more of a hike), and Old Baldy in Kimberley.
+
+#### Treetop canopy walk and ziplining
+
+[Scenic Caves](http://www.sceniccaves.com/activities/eco-adventure-tours/) has fun activities for families and some amazing views on Gorgian Bay
+
+#### Canoeing the Beaver River, caving, Stand up paddling, Kayaking on the bay
+
+[Free Spirit](http://www.freespirit-tours.com/paddling/) is a local company who has a bunch of fun activities including canoeing down the Beaver, sea kayaking, caving, SUP. 
 
 #### A map
 
