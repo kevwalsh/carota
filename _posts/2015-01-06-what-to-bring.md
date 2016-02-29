@@ -12,7 +12,7 @@ comingsoon: comingsoon
 
 #### Bring
 
-* Your guitar, your voice, your bocce game, or anything you'd like to share
+* Your guitar, your voice, your bocce game, your frizbee, or anything you'd like to share
 * Shoes & clothes: We would love it super casual (or exentrique!), but leave those heels and tight suits at home
 * Scarf, Long sleeves or pants to protect yourself from the mosquitos at sunset!
 * Your sexy speedo (French joke) or any swimsuit and towel for the pool
