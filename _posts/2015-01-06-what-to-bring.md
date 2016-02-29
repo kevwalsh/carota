@@ -22,7 +22,7 @@ comingsoon: comingsoon
 
 #### If you're Camping
 
-* Food: Expect to bring your own. But depending on how many campers we have we might structure a bit some meals to make them feel seamless...we might need volunteers here 
+* Food: Expect to bring your own. We might structure a bit some meals and need some volunteers if many of you are camping 
 * Tent, sleeping & cooking stuff
 * You won't have access to the house but there'll be an outdoor shower, kitchen, toilets set up
 
