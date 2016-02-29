@@ -23,7 +23,7 @@ If you're coming from Toronto (and have a chance to come visit when it's less bu
 
 #### Airbnb, B&B's & hotels
 
-We are 5 minutes south of the village of Duncan (no retail there, just a reference for maps!), 20 minutes south of Thornbury (Beaches, groceries, restaurants and bars), 25 minutes from Collingwood (Even bigger than Thornbury), 25 from Blue Mountain ski resort.
+We are 5 minutes south of the village of Duncan (no retail there, just a reference for maps!), 20 minutes south of Thornbury (Beaches, groceries, restaurants and bars), 25 minutes from Collingwood, 25 from Blue Mountain ski resort.
 
 - **Airbnbs**: [Many options around us](https://www.airbnb.ca/s/Duncan--Canada?checkin=29-07-2016&checkout=01-08-2016&guests=2&room_types%5B%5D=Entire+home%2Fapt&sw_lat=44.26659464166998&sw_lng=-80.60931852550351&ne_lat=44.52074649763&ne_lng=-80.28659513683164&search_by_map=true&zoom=11&ss_id=2ulkhhr6&s_tag=oH5o_ORV), including lots of condos at Blue Mountain. The other options seem nicer to us (because in a less touristy spot) but are way fewer so it's probably best not too wait to long.  A couple of the airbnbs would work with larger groups if you want to share. 
 
