@@ -13,7 +13,7 @@ comingsoon: comingsoon
 #### Bring
 
 * Your sexy speedo (French joke) or any swimsuit and towel for the pool
-* Shoes & clothes: We would love it super casual or exentrique, but leave those heels and tight suit at home
+* Shoes & clothes: We would love it super casual (or exentrique!), but leave those heels and tight suits at home
 * Scarf, Long sleeves or pants to protect yourself from the mosquitos at sunset!
 * Your guitar, your voice, your bocce game, or anything you'd like to share
 * Your bike, hiking shoes, sunscreen...and mosquito net 
