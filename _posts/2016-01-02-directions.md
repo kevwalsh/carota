@@ -21,3 +21,5 @@ If you use your phone or gps for directions, each system seems to spell our addr
 * Don't use Apple Maps on an iPhone, it will put you in a ditch.
 
 <iframe width='100%' height='700px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/lobp.ng3fga55/attribution,zoompan,zoomwheel,geocoder.html?access_token=pk.eyJ1IjoibG9icCIsImEiOiJjN3E3cHNFIn0.wzwgKdJM1apIg_CO9yO73A'></iframe>
+
+Do not park on the road (you might get toad away). We'll set up a parking in the field by our driveway.
