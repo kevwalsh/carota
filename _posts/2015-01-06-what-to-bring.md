@@ -22,7 +22,7 @@ image:
 
 #### If you're camping
 
-* Food: Expect to bring your own (and coolers and ice etc). We might structure a bit some meals and need some volunteers if many of you are camping.  
+* Food and drinks: Expect to bring your own (and coolers and ice etc). We might structure a bit some meals and need some volunteers if many of you are camping.  
 * Tent, sleeping & cooking stuff.
 * You won't have access to the house but there'll be an outdoor shower, kitchen, toilets set up.
 * we'll have plenty of ice on hand to keep drinks cold.
