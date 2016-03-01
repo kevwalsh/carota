@@ -6,6 +6,7 @@ excerpt: "Whatever you do, <br />don't use Apple Maps."
 image:
   svg: map.svg
   png: map.png
+  effect: rotate
 ---
 
 Our home is tucked away at the end of a long dead end road, it's a bit hard to find.

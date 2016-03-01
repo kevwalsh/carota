@@ -6,6 +6,7 @@ excerpt: "What to do around <br />here"
 image:
   svg: canoe.svg
   png: canoe.png
+  effect: tilt
 ---
 We really hope you'll stick around for a few days to enjoy the area. It's beautifully hilly and there's a lot to do.
 
@@ -21,7 +22,7 @@ Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches o
 
 The [Bruce Trail](http://brucetrail.org/) is 5 minutes drive from our place. But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
 
-The Kolapore trails are just around the corner and we often came back with our pockets full of yummy mushrooms. 
+The Kolapore trails are just around the corner and we often came back with our pockets full of yummy mushrooms.
 
 
 #### Biking
@@ -40,7 +41,7 @@ Three best areas in the county are around us: Metcalfe Rock (5 minute drive and 
 
 #### Canoeing the Beaver River, caving, Stand up paddling, Kayaking on the bay
 
-[Free Spirit](http://www.freespirit-tours.com/paddling/) is a local company who has a bunch of fun activities including canoeing down the Beaver, sea kayaking, caving, SUP. 
+[Free Spirit](http://www.freespirit-tours.com/paddling/) is a local company who has a bunch of fun activities including canoeing down the Beaver, sea kayaking, caving, SUP.
 
 #### A map
 

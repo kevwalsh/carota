@@ -33,6 +33,7 @@
   }
 }
 .cover-card {
+  @include text-shadow;
   font-size: 1.5em;
   color: $yellow-light;
   padding: 0 30px;

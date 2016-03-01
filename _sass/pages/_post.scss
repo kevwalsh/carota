@@ -22,6 +22,7 @@
     transition: all .5s ease;
     background: #fff;
     height: 220px;
+    overflow: hidden;
     padding: 0 1em;
     &.comingsoon {
 
@@ -45,18 +46,45 @@
         -moz-transition: all 0.5s ease;
         -o-transition: all 0.5s ease;
         -ms-transition: all 0.5s ease;
-        transition: all 2s ease;
+        transition: all .5s ease;
 
       }
       &:hover {
         // background: $white;
         // border: 2px solid #999;
-        img {
-          -webkit-transform: rotate(360deg);
-          -moz-transform: rotate(360deg);
-          -o-transform: rotate(360deg);
-          -ms-transform: rotate(360deg);
-          transform: rotate(360deg);
+        img  {
+          &.pour {
+            @include rotate(135deg);
+          }
+          &.tilt {
+            @include rotate(5deg);
+            max-width: 130px;
+          }
+          &.rotate {
+            @include rotate(360deg);
+          }
+          &.shake {
+            animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+            transform: translate3d(0, 0, 0);
+            backface-visibility: hidden;
+            perspective: 1000px;
+          }
+          &.grow {
+
+          }
+          &.popup {
+            transform: translateY(-200px);
+            animation: popup 10s 6.5s ease infinite;
+          }
+          &.side {
+            -webkit-animation: roadrunner 2800ms linear infinite both;
+              animation: roadrunner 2800ms linear infinite both;
+          }
+          &.cuckoo {
+            -webkit-animation: cuckoo 1000ms linear infinite both;
+            animation: cuckoo 1000ms linear infinite both;
+          }
+
         }
         div {
 
@@ -73,9 +101,12 @@
     padding-top: 1em;
     img {
 
-      &:hover {
-        max-width: 110px;
-
+      &.grow:hover {
+        max-width: 140px;
+      }
+      &.popup {
+        height: 100px;
+        overflow-y: hidden;
       }
 
     }

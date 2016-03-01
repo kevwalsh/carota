@@ -9,6 +9,7 @@ published: false
 image:
   svg: bottle.svg
   png: bottle.png
+  effect: pour
 comingsoon: comingsoon
 ---
 
