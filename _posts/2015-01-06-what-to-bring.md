@@ -12,9 +12,9 @@ image:
 
 #### Bring
 
-* Your guitar, your voice, your bocce game, your frizbee, and anything you'd like to share.
+* Your guitar, your voice, your bocce game, your frisbee, and anything you'd like to share.
 * Shoes & clothes: We would love it super casual (or exentrique!), but leave those heels and tight suits at home please.
-* Scarf, long sleeves or pants to protect yourself from the mosquitos at sunset!  The bugs are only out for an hour so, but after that it can get cool at night, unlike the city.
+* Scarf, long sleeves or pants to protect yourself from the mosquitos at sunset!  The bugs are only out for an hour so, but after that the temperature can drop a lot more than in the city. 
 * Your sexy speedo (French joke) or any swimsuit and towel for the pool.
 * Your bike, hiking shoes, sunscreen.
 * [Your kids!](/kids)

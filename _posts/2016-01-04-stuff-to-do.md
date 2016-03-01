@@ -8,7 +8,8 @@ image:
   png: canoe.png
   effect: tilt
 ---
-We really hope you'll stick around for a few days to enjoy the area. It's beautifully hilly and there's a lot to do.
+
+Stick around for a day or two!
 
 #### Swimming
 
