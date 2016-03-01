@@ -21,6 +21,7 @@
     -ms-transition: all .5s ease;
     transition: all .5s ease;
     background: #fff;
+    border-radius: 7px;
     height: 220px;
     overflow: hidden;
     padding: 0 1em;
@@ -29,7 +30,7 @@
     }
     &:hover {
       background: $white;
-      border: 1px solid $yellow-light;
+      // border: 1px solid $yellow-light;
     }
     a {
       padding: 0;
