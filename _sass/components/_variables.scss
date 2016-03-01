@@ -34,8 +34,8 @@ $font-size-root:             15px !default;
 $font-size-base:             $font-size-root !default;
 $font-size-xl:               $font-size-root * 1.25 !default;
 $font-size-lg:               $font-size-root * 1 !default;
-$font-size-sm:               $font-size-root * 0.875 !default;
-$font-size-xs:               $font-size-root * 0.75 !default;
+$font-size-sm:               $font-size-root * 0.9 !default;
+$font-size-xs:               $font-size-root * 0.825 !default;
 
 $font-size-h1:               2rem !default;
 $font-size-h2:               1.75rem !default;
@@ -93,6 +93,6 @@ $element-bottom-margin: ($gutter-width*2)/3 !default;
 
 // Media Query Ranges
 $small-screen: 700px !default;
-$medium-screen: 992px !default;
+$medium-screen: 1025px !default;
 $large-screen: 1200px !default;
 $larger-screen: 1600px !default;

@@ -2,7 +2,7 @@
 layout: page
 title: "Coming for the weekend?"
 permalink: stuff-to-do
-excerpt: "What to do around <br />here"
+excerpt: "What to do around here"
 image:
   svg: canoe.svg
   png: canoe.png
