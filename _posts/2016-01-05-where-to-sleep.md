@@ -11,8 +11,6 @@ image:
   effect: popup
 ---
 
-
-
 #### Camping
 
 We have lots of space for tents at home if you're cool with using an outhouse, outdoor shower & cooking!

@@ -13,24 +13,23 @@ Stick around for a day or two!
 
 #### Swimming
 
-There's a little pool at our home.  Bring your suit!
+There's a little pool at our home.  Bring your suit! (And towel.)
 
-The beautiful Beaver River flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house. One is near Kimberley, and the other in Slabtown. Both have moving water and really fun.
+The beautiful Beaver River flows nearby, and there are a couple of great swimming holes 15-20 minutes from our house. One is near Kimberley, and the other in Slabtown.  Both these spots having moving water, so not great for little kids.
 
-Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches of limestone shore.  We recommend Craigleith and the YMCA beach of Wasaga Beach.
+Georgian Bay is 20 minutes away, with its big sandy beaches and some stretches of limestone shore.  We recommend Craigleith and the YMCA beach of Wasaga Beach.  The closest beach, in Thornbury, is great for little kids.
 
 #### Hiking
 
-The [Bruce Trail](http://brucetrail.org/) is 5 minutes drive from our place. But it winds all over the area, with great hikes including Old Baldy, with view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
+The [Bruce Trail](http://brucetrail.org/) is a 5 minute drive from our place. But it winds all over the area, with great hikes including Old Baldy, with a view over the Beaver Valley, the Loree Forest with views over Georgian Bay, and a half dozen great waterfalls at the top of the Beaver Valley, near Eugenia.
 
-The Kolapore trails are just around the corner and we often came back with our pockets full of yummy mushrooms.
-
+The Kolapore trails are just around the corner, and in late July the wild mushrooms will be plentiful.  Oyster mushrooms, comb's tooth, pear-shaped puffballs, and more.
 
 #### Biking
 
-For mountain bikers, the Kolapore trails system can be accessed from the end of our driveway, or from a parking lot on Grey Road 2, south of the intersection with 19. There's also 3-stage.
+For mountain bikers, the Kolapore trails system can be accessed from the end of our driveway, or from a parking lot on Grey Road 2, south of the intersection with 19. There's also 3-stage nearby, and Blue Mountain.
 
-For road bikers there are many beautiful hills to climb, quiet gravel roads and smooth paved roads with shoulders to be enjoyed.
+Road bikers will find many beautiful hills to climb nearby, either on quiet gravel roads or buttery smooth paved roads, many with decent shoulders.
 
 #### Rock climbing
 
@@ -38,7 +37,7 @@ Three best areas in the county are around us: Metcalfe Rock (5 minute drive and 
 
 #### Treetop canopy walk and ziplining
 
-[Scenic Caves](http://www.sceniccaves.com/activities/eco-adventure-tours/) has fun activities for families and some amazing views on Gorgian Bay
+[Scenic Caves](http://www.sceniccaves.com/activities/eco-adventure-tours/) has fun activities for families and some amazing views on Georgian Bay.
 
 #### Canoeing the Beaver River, caving, Stand up paddling, Kayaking on the bay
 

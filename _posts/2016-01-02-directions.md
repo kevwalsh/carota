@@ -21,6 +21,6 @@ If you use your phone or gps for directions, each system seems to spell our addr
 * Google Maps: <https://goo.gl/maps/27qlY>, or type in ```547316 Side Road 3, Clarksburg ON```
 * Don't use Apple Maps on an iPhone, it will put you in a ditch.
 
-Finally, do not park on the road (you might get towed away). We'll set up a parking in the field by our driveway.
+Finally, do not park on the road (you might get towed). We'll set up a parking in the field by our driveway.
 
 <iframe width='100%' height='700px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/lobp.ng3fga55/attribution,zoompan,zoomwheel,geocoder.html?access_token=pk.eyJ1IjoibG9icCIsImEiOiJjN3E3cHNFIn0.wzwgKdJM1apIg_CO9yO73A'></iframe>

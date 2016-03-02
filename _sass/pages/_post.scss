@@ -25,41 +25,27 @@
     height: 220px;
     overflow: hidden;
     padding: 0 1em;
-    &.comingsoon {
-
-    }
-    &:hover {
-      background: $white;
-      // border: 1px solid $yellow-light;
+    img {
+      text-align: center;
+      max-width: 100px;
+      color: #bbb;
+      @include transition(all .5s ease);
+      width: 100%;
+      height: 120px;
+      padding-top: 1em;
     }
     a {
-      padding: 0;
       display: block;
       text-align: center;
-      &.comingsoon {
-        color: #aaa;
-      }
-      img {
-        text-align: center;
-        max-width: 100px;
-        color: #bbb;
-        -webkit-transition: all 0.5s ease;
-        -moz-transition: all 0.5s ease;
-        -o-transition: all 0.5s ease;
-        -ms-transition: all 0.5s ease;
-        transition: all .5s ease;
-
-      }
       &:hover {
-        // background: $white;
-        // border: 2px solid #999;
+        background: $white;
         img  {
           &.pour {
             @include rotate(135deg);
           }
           &.tilt {
-            @include rotate(5deg);
-            max-width: 130px;
+            @include rotate(4deg);
+            max-width: 110px;
           }
           &.rotate {
             @include rotate(360deg);
@@ -70,12 +56,11 @@
             backface-visibility: hidden;
             perspective: 1000px;
           }
-          &.grow {
-
-          }
           &.popup {
             transform: translateY(-200px);
             animation: popup 10s 6.5s ease infinite;
+            height: 100px;
+            overflow-y: hidden;
           }
           &.side {
             -webkit-animation: roadrunner 2800ms linear infinite both;
@@ -85,46 +70,17 @@
             -webkit-animation: cuckoo 1000ms linear infinite both;
             animation: cuckoo 1000ms linear infinite both;
           }
-
-        }
-        div {
-
+          &.grow {
+            max-width: 125px;
+          }
         }
       }
     }
-
-
-  }
-
-  .post-icon {
-    width: 100%;
-    height: 120px;
-    padding-top: 1em;
-    img {
-
-      &.grow:hover {
-        max-width: 140px;
-      }
-      &.popup {
-        height: 100px;
-        overflow-y: hidden;
-      }
-
     }
-  }
-  .post-title {
-    font-weight: bold;
-
-  }
-  .post-excerpt {
-    padding-bottom: 2em !important;
   }
 }
 
 .listing {
-  // background-color: $white;
-  // position: absolute;
-  // top: 400px;
   z-index: 233;
   width: 100%;
   padding: 20px 20px 0;
@@ -164,7 +120,11 @@ section.post {
 
 // Post title
 .post-title {
+  font-weight: bold;
+}
 
+.post-excerpt {
+  padding-bottom: 2em !important;
 }
 
 .post-title-link {

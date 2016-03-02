@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: page
 permalink: rsvp-thanks
 published: true
-
 ---
 
-Thanks for rsvp'ing.
+### Thanks for rsvp'ing.
 
-We can't wait ...
+We can't wait!
