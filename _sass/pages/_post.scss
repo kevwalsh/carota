@@ -17,11 +17,11 @@
     @include transition(all .5s ease);
     background: #fff;
     border-radius: 9px;
-    height: 220px;
+    height: 240px;
     overflow: hidden;
     padding: 0 1em;
     .post-icon {
-      height: 120px;
+      height: 100px;
       padding: 1em;
       &:hover {
         // height: 140px;
@@ -33,8 +33,8 @@
       color: #bbb;
       @include transition(all .5s ease);
       width: 100%;
-      height: 140px;
-      padding-top: 1em;
+      height: 100px;
+      padding-top: 0em;
       &.cuckoo {
         position: relative;
         top: 1em;
@@ -45,6 +45,9 @@
       text-align: center;
       &:hover {
         background: $white;
+        .post-icon {
+          // height: 140px;
+        }
         img  {
           &.pour {
             @include rotate(135deg);
@@ -79,6 +82,7 @@
           &.grow {
             max-width: 140px;
             width: 140px;
+            height: 125px;
           }
         }
       }
@@ -127,7 +131,7 @@ section.post {
 // Post title
 .post-title {
   font-weight: bold;
-  padding-top: 2em;
+  padding: .5em 0 .15em;
 }
 
 .post-excerpt {
