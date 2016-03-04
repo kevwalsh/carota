@@ -6,7 +6,7 @@ excerpt: "Forget that fancy outfit"
 image:
   png: backpack.png
   svg: backpack.svg
-  effect: shake
+  effect: shake padding
 ---
 
 
