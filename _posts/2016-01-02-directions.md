@@ -9,7 +9,7 @@ image:
   effect: rotate padding
 ---
 
-Our home is tucked away at the end of a long dead end road, it's a bit hard to find.  The real estate showing us the house in 2014 even got lost on his way to show it.
+Our home is tucked away at the end of a long dead end road, it's a bit hard to find.
 
 From Toronto: there are two choice routes, depending on what side of town you're leaving from, and traffic on the 401, 410, and 400.
 
