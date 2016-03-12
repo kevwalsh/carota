@@ -11,10 +11,10 @@ image:
 
 Our home is tucked away at the end of a long dead end road, it's a bit hard to find.
 
-From Toronto: there are two choice routes, depending on what side of town you're leaving from, and traffic on the 401, 410, and 400.
+From Toronto there are two good options, depending on what side of town you're leaving from, and traffic on the 401, 410, and 400.
 
 * [Directions via Barrie](https://www.evernote.com/l/ACiKYzXHU1NFo7I8s5xCHCezHsHtyFOuEtA) … Usually the best option from uptown Toronto, the east end, the Junction.
-* **broken link** [Directions via Orangeville](https://www.evernote.com/l/ACgOxijid59FPbb5_R1c2C6SK0Jf7p2U4no). This is the better option from downtown, or the west end. Definitely the way to go if you're coming from the airport.
+* [Directions via Orangeville](https://www.evernote.com/l/ACgOxijid59FPbb5_R1c2C6SK0Jf7p2U4no). This is the better option from downtown, or the west end. Definitely the way to go if you're coming from the airport.
 
 If you use your phone or GPS for directions, each system seems to spell our address differently... "Third Sideroad, 3rd Side Rd, 3 Side", etc.
 
