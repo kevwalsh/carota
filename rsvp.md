@@ -4,6 +4,8 @@ permalink: rsvp-thanks
 published: true
 ---
 
-### Thanks for rsvp'ing.
+### Thanks for RSVP'ing.
 
-We can't wait!
+Looking forward to seeing you. 
+
+If you RSVP'd with a "no", please come visit some other time!
