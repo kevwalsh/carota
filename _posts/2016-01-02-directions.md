@@ -9,7 +9,7 @@ image:
   effect: rotate padding
 ---
 
-Our home is tucked away at the end of a long dead end road, it's a bit hard to find, there will be "L&K" signs strating at the intersection of Grey Road 2 with 19 and 9th.
+Our home is tucked away at the end of a long dead end road, it's a bit hard to find, there will be "L&K" signs starting at the intersection of Grey Road 2 and 9th Side Road.
 
 There's a parking in the field by our driveway (don't park on the road!)
 
