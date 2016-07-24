@@ -9,7 +9,9 @@ image:
   effect: rotate padding
 ---
 
-Our home is tucked away at the end of a long dead end road, it's a bit hard to find.
+Our home is tucked away at the end of a long dead end road, it's a bit hard to find, there will be "L&K" signs strating at the intersection of Grey Road 2 with 19 and 9th.
+
+There's a parking in the field by our driveway (don't park on the road!)
 
 From Toronto there are two good options, depending on what side of town you're leaving from, and traffic on the 401, 410, and 400.
 
@@ -21,7 +23,6 @@ If you use your phone or GPS for directions, each system seems to spell our addr
 * Google Maps: <https://goo.gl/maps/27qlY>, or type in ```547316 Side Road 3, Clarksburg ON```
 * Don't use Apple Maps on an iPhone, it might put you in a ditch on an ATV track.  True story.
 
-There will be a place to park in the field by our driveway (don't park on the road!).
 
 <iframe width='100%' height='700px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/lobp.ng3fga55/attribution,zoompan,zoomwheel,geocoder.html?access_token=pk.eyJ1IjoibG9icCIsImEiOiJjN3E3cHNFIn0.wzwgKdJM1apIg_CO9yO73A'></iframe>
 
