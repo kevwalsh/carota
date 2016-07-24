@@ -13,7 +13,7 @@ image:
 
 #### Camping
 
-You can set up anytime Saturday morning on any of the campsites in the field (There'll be signs!, but please only show up at the house from 1:30 cause we have a lot to do!
+You can set up anytime Saturday morning on any of the campsites in the field (There'll be signs!) But please only show up at the house from 1:30 cause we have a lot to do!
 
 * Do not leave food in your tents...There's a lot of wildlife around.
 * There will be an outdoor fridge accessible from Sunday only
@@ -23,6 +23,6 @@ You can set up anytime Saturday morning on any of the campsites in the field (Th
 * Don't forget your headlamps!
 
 
-Check out the list of [stuff to bring](/what-to-bring) if you're camping.
+Check out the list of [stuff to bring](/what-to-bring).
 
 
