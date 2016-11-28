@@ -1,0 +1,32 @@
+
+
+form#rsvp {
+  padding: 1em;
+  background: $white;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+.radiobuttons {
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+input {
+  margin: .5em 0;
+  padding: .5em;
+  @media (min-width: medium-screen) {
+    font-size: 1.5em;
+  }
+  &.hidden {
+    display: none;
+  }
+  &[type="text"],&[type="email"] {
+    width: 100%;
+  }
+}
+
+button.btn {
+  margin-top: 1em;
+}
+

@@ -4,19 +4,20 @@
 ####################################
 #
 title:       "Kev and Lisa's wedding"
-description: 'July 30 at our home in The Blue Mountains'
-url:         http://j30.lafarm.ca/
+description: 'July 30 at our home'
+url:         http://lisaandkev.ca
+
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Americas/Toronto
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         :title
 
 kramdown:
   auto_ids:       true
@@ -33,7 +34,7 @@ kramdown:
 owner:
   name: Kevin Walsh and Lisa Pottier
   avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
+  # job: "PHP & Ruby Developer"
   # bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
   email: kevinjosephwalsh@gmail.com
   # disqus-shortname: renyuanzblog
@@ -41,24 +42,9 @@ owner:
   #facebook: username
   google:
     plus: #username
-    analytics: UA-62251910-1
+    analytics: UA-73359685-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  github: kevwalsh #username

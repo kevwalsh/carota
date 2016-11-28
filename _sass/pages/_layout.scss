@@ -1,38 +1,41 @@
 /* LAYOUT CSS */
 .cover {
   background: #f1da36; /* Old browsers */
-  background: linear-gradient(25deg, rgba(20,20,20, .95), rgba(240,240,20, .05)), url("../img/winter-carota.jpg");  //url("../img/photo-daucus.jpg")
+  background: linear-gradient(25deg, rgba(20,20,20, .95), rgba(240,240,20, .05)), url("../img/photo-daucus.jpg");  //url("../img/photo-daucus.jpg")
   // background: -moz-linear-gradient(-45deg,  #f1da36 11%, #f1da36 11%, #fefcea 60%); /* FF3.6-15 */
   // background: -webkit-linear-gradient(-45deg,  #f1da36 11%,#f1da36 11%,#fefcea 60%); /* Chrome10-25,Safari5.1-6 */
   // background: linear-gradient(135deg,  #f1da36 11%,#f1da36 11%,#fefcea 60%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   background-position: left top;
   background-size: cover;
-  height: 100vh;
-  position: initial;
+
   width: 100%;
 
   text-align: center;
-  min-height: 400px;
+  min-height: 250px;
   padding: 30px 15px 20px;
   z-index: 1;
 
-  @include media-query($small-screen) {
+  @include media-query($medium-screen) {
     padding: 30px;
+    text-align: left;
+    background-position: left top;
+    height: 100vh;
+    position: initial;
   }
   @include media-query($medium-screen) {
-    text-align: left;
-    background-position: center top;
-    // transition: background 1s ease;
+
+   // transition: background 1s ease;
     &:hover {
-      // background: linear-gradient(25deg, rgba(20,20,20, .8), rgba(240,240,20, .2)), url("../img/winter-carota.jpg"); //url("../img/photo-daucus.jpg")
-      // background-position: left top;
+      // background: linear-gradient(25deg, rgba(20,20,20, .8), rgba(240,240,20, .2)), url("../img/photo-daucus.jpg"); //url("../img/photo-daucus.jpg")
+      // background-position: center top;
       // background-size: cover;
     }
   }
 }
 .cover-card {
+  @include text-shadow;
   font-size: 1.5em;
-  color: #fff;
+  color: $yellow-light;
   padding: 0 30px;
   vertical-align: center !important;
   span {
@@ -48,14 +51,12 @@
   }
   .author_name {
     display: block;
-    color: #FFFFD5;
     font-weight: bold;
     font-size: 1.75em;
     text-transform: lowercase;
   }
   .author_job {
     // display: block;
-    color: #ffffd5;
     font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;
@@ -74,7 +75,6 @@
     padding: 0;
     text-align: right;
     vertical-align: bottom;
-
   }
 }
 .social-links {
@@ -118,16 +118,30 @@
   }
 }
 
+.s4 {
+  text-align: center;
+  margin: 2em 0;
+}
+
+iframe {
+  position: relative;
+  bottom: 0;
+}
+
 .welcome {
-  color: $white;
-  background: darken($turquoise, 14%);
+  color: #4f4f4f;
+  // background: $white;
   font-weight: bold;
-  transition: background-color 1.5s ease;
-  &:hover {
-    background-color: $turquoise;
-    color: #fff;
+  font-size: 1.1em;
+  p {
+    margin: .25em 0;
   }
-  padding: 20px 20px 40px;
+  transition: background-color 0.5s ease;
+  &:hover {
+    background-color: $white;
+    // color: #fff;
+  }
+  padding: 50px 60px 40px;
   @include media-query($small-screen) {
     // padding: 50px 30px;
   }

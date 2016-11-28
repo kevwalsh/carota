@@ -2,6 +2,7 @@
 layout: post
 title:  Schedule
 permalink: /schedule/
+published: false
 ---
 
 ###Friday July 29

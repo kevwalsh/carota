@@ -63,5 +63,17 @@ layout: default
 
 <!-- {% if site.owner.disqus-shortname and page.comments == true %}
 <div id="disqus_thread"></div>
-{% include disqus.html %} --> -->
+{% include disqus.html %} -->
 {% endif %}
+
+<div class="row">
+  {% for post in site.posts %}
+  <div class="col s6 m6 l6 xl4 post">
+    <a href="{{ site.url }}{{ post.url }}" class="{{ post.comingsoon }}">
+      <div class="post-icon"><img src="{{ site.url }}/img/{{ post.image.png }}" srcset="{{ site.url }}/img/{{ post.image.svg }}"></div>
+      <div class="post-title">{{ post.title }}</div>
+      <div class="post-excerpt">{{ post.excerpt }}</div>
+    </a>
+  </div>
+  {% endfor %}
+</div>

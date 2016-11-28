@@ -13,7 +13,19 @@ html {
   color: $text-color;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-size: $font-size-base;
+  font-size: $font-size-sm;
+  @include media-query($small-screen) {
+    font-size: $font-size-sm;
+  }
+  @include media-query($medium-screen) {
+    font-size: $font-size-sm;
+  }
+  @include media-query($large-screen) {
+    font-size: $font-size-lg;
+  }
+  @include media-query($larger-screen) {
+    font-size: $font-size-xl;
+  }
 }
 
 //
@@ -37,7 +49,7 @@ a {
    color: $turquoise;
    &:hover,
    &:focus {
-     color: lighten($valencia, 14%);
+     color: darken($turquoise, 14%);
      text-decoration: none;
    }
 }
